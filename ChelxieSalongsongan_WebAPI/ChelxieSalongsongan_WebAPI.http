@@ -1,0 +1,6 @@
+@ChelxieSalongsongan_WebAPI_HostAddress = http://localhost:5199
+
+GET {{ChelxieSalongsongan_WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
